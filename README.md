@@ -1,8 +1,6 @@
 <h1>Hi 👋, I'm Hafizferanmi</h1>
 <h3>Passionate full-stack developer building scalable and user-centric web applications.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hafizferanmi" alt="hafizferanmi" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/hafizferanmi" target="blank"><img src="https://img.shields.io/twitter/follow/hafizferanmi?logo=twitter&style=for-the-badge" alt="hafizferanmi" /></a> </p>
 
 - 🔭 Currently working as a **full-stack developer**
